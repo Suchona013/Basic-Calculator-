@@ -1,0 +1,8 @@
+.root{
+    color:red;
+    -fx-background-color: lightblue;
+}
+.clearButton{
+    -fx-background-color: black;
+}
+
